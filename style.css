@@ -1,0 +1,13 @@
+.boll{
+    position: absolute;
+    border-radius: 50%;
+    transition:  all 3s;
+    cursor: pointer;
+}
+label{
+    width: 100px;
+    height: 200px;
+    background-color: red;
+    z-index: 99;
+    font-size: 23px;
+}
